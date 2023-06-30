@@ -1,2 +1,2 @@
 console.log("umsug")
-console.log("qnisa")
+console.log("obpok")
